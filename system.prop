@@ -1,8 +1,8 @@
-## Original Project by @T3SL4 - Maintened by @MRX7014
+## Original Project by @T3SL4 - Maintained by @glitch_wraith
 
 # begin common build properties
-ro.product.model=NP03J
-ro.product.product.model=NP03J
+ro.product.model=PJZ110
+ro.product.product.model=PJZ110
 # end common build properties
 
 
