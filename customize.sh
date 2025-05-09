@@ -14,4 +14,4 @@ MOD_PROP_YEAR=$(date -d "$MOD_PROP_SECURITYPATCH" '+%Y')
 ui_print "- Installing, $MOD_PROP_MODEL ($MOD_PROP_PRODUCT) Prop - $MOD_PROP_MONTH $MOD_PROP_YEAR"
 
 # Print footer message
-ui_print "- Script by MRX7014, Telegram: @MRX7014"
+ui_print "- Script by MRX7014, Telegram: @MRX7014, Updated by GlitchWraith"
